@@ -1,2 +1,2 @@
 language = "cpp"
-run = ""
+run = "g++ -Wall -std=c++11 -g Car.cpp Menu.cpp Motorcycle.cpp Parking.cpp ParkingAppTester.cpp ReadWritable.cpp Utils.cpp Vehicle.cpp && ./a.out"

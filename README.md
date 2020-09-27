@@ -56,7 +56,7 @@ Focus of the code:
 
 ## Getting Started
 
-[![Run on Repl.it](https://repl.it/badge/github/alastairodhiambo/Parking_App)](https://repl.it/github/alastairodhiambo/Parking_App)
+[![Run on Repl.it](https://repl.it/badge/github/alastairodhiambo/Parking_App)](https://repl.it/@alastairo/ParkingApp)
 
 To run this program, download the a.out executable and run using: 
 

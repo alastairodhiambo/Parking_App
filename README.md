@@ -20,6 +20,8 @@
 
 Final Project for Intro to Object Oriented Programming class.
 
+Built with C++
+
 This project simulates a parking complex, allowing vehicles to enter and exit the building. There are a limited amount of parking spots and the program acts accordingly. The car owners are also able to decide if they want a car wash.
 
 

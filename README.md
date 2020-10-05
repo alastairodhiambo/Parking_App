@@ -58,9 +58,13 @@ Focus of the code:
 
 ## Getting Started
 
+To run the program either:
+
+Go to repl.it and press the run button.
+
 [![Run on Repl.it](https://repl.it/badge/github/alastairodhiambo/Parking_App)](https://repl.it/@alastairo/ParkingApp)
 
-To run this program, download the a.out executable and run using: 
+Or, download the a.out executable and run using: 
 
 ```bash
 Mac: ./a.out
